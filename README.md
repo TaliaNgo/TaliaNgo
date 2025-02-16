@@ -7,4 +7,4 @@
 - 📫 Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/talia-ngo/)
 
 ### My Skills
-[![My Skills](https://skillicons.dev/icons?i=java,py,mysql,mongodb&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,mysql,mongodb,figma&theme=light)](https://skillicons.dev)
